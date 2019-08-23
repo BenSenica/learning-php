@@ -14,6 +14,14 @@
 </head>
 
 <body>
+    <form action="" method="POST">
+        <label>Username:</label>
+        <input type="text" name="username" placeholder="username">
+        <br> <br>
+        <input type="submit" value="submit">
+    </form>
+
+    <?php echo "Welcome ", $_POST["username"]; ?>
 
     <!-- Optional JavaScript -->
     <script src="" <!-- jQuery first, then Popper.js, then Bootstrap JS -->
