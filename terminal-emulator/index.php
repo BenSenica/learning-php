@@ -17,7 +17,7 @@
 <body>
 
     <textarea name="terminal" form="terminal"></textarea>
-    <form id="terminal">
+    <form id="terminal" method="post">
         <input type="text" onkeypress="submitOnEnter(this, event);">
 
     </form>
