@@ -4,7 +4,7 @@
 Step by step "How to"
 ***
 
-1. create form in index.php
+1. ~~create form in index.php~~
 2. use JS to submit the form when enter is pressed (POST REQUEST!!)
 2. use JS to empty the input field and print the command above the input field
 2. style it to look like a terminal
